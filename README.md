@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keo KAY</h1>
 <h3 align="center">A passionate programmer who want to make the world a better place</h3>
 
-- 🔭 I’m currently working on **Hyperledger Fabric**
+- 🔭 I’m currently working on **Microservices with K8s and Openshift**
 
 - 🌱 I’m currently learning **Artificial Intelligence , Blockchain**
 
-- 📫 How to reach me **lyvanna544@gmail.com**
+- 📫 How to reach me **keokay.istad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
